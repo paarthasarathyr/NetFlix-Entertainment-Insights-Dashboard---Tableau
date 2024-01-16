@@ -1,1 +1,1 @@
-# NetFlix-Entertainment-Insights-Dashboard---Tableau
+The Netflix Entertainment Insights Dashboard in Tableau offers an in-depth analysis of viewer engagement and content performance on the streaming platform. This interactive dashboard provides key features such as metrics on viewer engagement, evaluation of content performance based on user ratings, genre preferences and trends, geographic analysis, and personalized content recommendations.
